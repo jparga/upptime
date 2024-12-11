@@ -4,7 +4,8 @@
   "name": "Upptime",
   "short_name": "Upptime",
   "display": "minimal-ui",
-  "start_url": "/upptime",
+  "start_url": "/",
+  "scope": "/upptime/",
   "icons": [
     {
       "src": "logo-192.png",
