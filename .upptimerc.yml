@@ -9,13 +9,19 @@ sites:
     url: https://mereba.com.es
   - name: Marca Franca
     url: https://marcafranca.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Canal Responsable Web
+    url: https://canalresponsable.com
+  - name: Atletismo máster
+    url: https://atletismomaster.es
+  - name: Parga Asociados
+    url: https://pargaasociados.es
+  #- name: Test Broken Site
+  #  url: https://thissitedoesnotexist.koj.co
+  #- name: IPv6 test
+  #  url: forwardemail.net
+  #  port: 80
+  #  check: "tcp-ping"
+  #  ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
