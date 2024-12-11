@@ -11,6 +11,8 @@ sites:
     url: https://marcafranca.com
   - name: Canal Responsable Web
     url: https://canalresponsable.com
+  - name: MFREG
+    url: https://mfreg.marcafranca.com/user/login?_next=/
   - name: Atletismo máster
     url: https://atletismomaster.es
   - name: Parga Asociados
