@@ -1,11 +1,10 @@
 {
   "background_color": "#ffffff",
   "theme_color": "#333333",
-  "name": "Upptime_MEREBA",
-  "short_name": "UpptiME",
+  "name": "Upptime",
+  "short_name": "Upptime",
   "display": "minimal-ui",
-  "start_url": "/upptime",
-  "scope": "/upptime/",
+  "start_url": "/",
   "icons": [
     {
       "src": "logo-192.png",
