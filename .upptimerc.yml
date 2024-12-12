@@ -32,8 +32,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime_MEREBA
-  introTitle: "**Upptime_Mereba** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository]. No server required — just GitHub Actions, Issues, and Pages.
+  introTitle: "**Upptime Mereba** uptime monitor and status page for jparga sites."
+  introMessage: Fork of github.com/upptime repository.
   navbar:
     - title: Status
       href: /upptime
