@@ -41,6 +41,9 @@ status-website:
       href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  # Add my own cron time to uptime once half an hour
+  workflowSchedule:
+    uptime: "*/30 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
