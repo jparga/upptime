@@ -3,8 +3,8 @@ owner: jparga # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: DemosMF
-    url: https://demos.marcafranca.com/
+#  - name: DemosMF   # Consume 0.8€ día
+#    url: https://demos.marcafranca.com/
   - name: MEREBA
     url: https://www.mereba.com
   - name: Test Mereba
@@ -14,7 +14,7 @@ sites:
   - name: Canal Responsable Web
     url: https://canalresponsable.com
   - name: MFREG
-    url: https://mfreg.marcafranca.com/user/login?_next=/
+    url: https://mfreg.marcafranca.com/robots.txt
   - name: Atletismo máster
     url: https://atletismomaster.es
   - name: Parga Asociados
