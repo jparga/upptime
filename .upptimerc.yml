@@ -2,6 +2,9 @@
 owner: jparga # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+# Add the schedule here
+schedule: "0 * * * *"  # Check every 60 minutes
+
 sites:
 #  - name: DemosMF   # Consume 0.8€ día
 #    url: https://demos.marcafranca.com/
@@ -41,9 +44,6 @@ status-website:
       href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  # Add my own cron time to uptime once half an hour
-  workflowSchedule:
-    uptime: "*/30 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
