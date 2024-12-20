@@ -3,7 +3,9 @@ owner: jparga # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 # Add the schedule here
-schedule: "0 * * * *"  # Check every 60 minutes
+schedule: 
+  - cron: "0 * * * *"  
+# Check every 60 minutes
 
 sites:
 #  - name: DemosMF   # Consume 0.8€ día
