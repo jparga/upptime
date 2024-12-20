@@ -12,7 +12,7 @@ workflowSchedule:
   uptime: "0 * * * *"
 
 sites:
-#  - name: DemosMF   # Consume 0.8€ día
+#  - name: DemosMF  
 #    url: https://demos.marcafranca.com/
   - name: MEREBA
     url: https://www.mereba.com
@@ -28,6 +28,8 @@ sites:
     url: https://atletismomaster.es
   - name: Parga Asociados
     url: https://pargaasociados.es
+  - name: Site CR OP
+    url: $SITE_CR
   #- name: Test Broken Site
   #  url: https://thissitedoesnotexist.koj.co
   #- name: IPv6 test
