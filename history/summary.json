@@ -98,19 +98,19 @@
     "url": "https://atletismomaster.es",
     "icon": "https://icons.duckduckgo.com/ip3/atletismomaster.es.ico",
     "slug": "atletismo-master",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 787,
-    "timeDay": 659,
-    "timeWeek": 880,
-    "timeMonth": 844,
-    "timeYear": 787,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.90%",
+    "time": 797,
+    "timeDay": 982,
+    "timeWeek": 933,
+    "timeMonth": 858,
+    "timeYear": 797,
     "dailyMinutesDown": {
-      "2025-01-20": 1
+      "2025-01-20": 56
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://pargaasociados.es",
     "icon": "https://icons.duckduckgo.com/ip3/pargaasociados.es.ico",
     "slug": "parga-asociados",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 838,
-    "timeDay": 750,
-    "timeWeek": 804,
-    "timeMonth": 950,
-    "timeYear": 838,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.90%",
+    "time": 842,
+    "timeDay": 906,
+    "timeWeek": 836,
+    "timeMonth": 954,
+    "timeYear": 842,
     "dailyMinutesDown": {
-      "2025-01-20": 0
+      "2025-01-20": 55
     }
   },
   {
