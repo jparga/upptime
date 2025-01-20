@@ -13,7 +13,7 @@
     "time": 1324,
     "timeDay": 492,
     "timeWeek": 1733,
-    "timeMonth": 1741,
+    "timeMonth": 1868,
     "timeYear": 1324,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mereba.com.es.ico",
     "slug": "test-mereba",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 906,
     "timeDay": 748,
     "timeWeek": 949,
-    "timeMonth": 965,
+    "timeMonth": 970,
     "timeYear": 906,
     "dailyMinutesDown": {
       "2025-01-02": 59,
@@ -53,7 +53,7 @@
     "time": 544,
     "timeDay": 449,
     "timeWeek": 543,
-    "timeMonth": 549,
+    "timeMonth": 552,
     "timeYear": 544,
     "dailyMinutesDown": {}
   },
@@ -71,7 +71,7 @@
     "time": 548,
     "timeDay": 526,
     "timeWeek": 567,
-    "timeMonth": 563,
+    "timeMonth": 571,
     "timeYear": 548,
     "dailyMinutesDown": {}
   },
@@ -89,7 +89,7 @@
     "time": 283,
     "timeDay": 205,
     "timeWeek": 211,
-    "timeMonth": 205,
+    "timeMonth": 212,
     "timeYear": 283,
     "dailyMinutesDown": {}
   },
@@ -98,36 +98,40 @@
     "url": "https://atletismomaster.es",
     "icon": "https://icons.duckduckgo.com/ip3/atletismomaster.es.ico",
     "slug": "atletismo-master",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 787,
     "timeDay": 659,
     "timeWeek": 880,
-    "timeMonth": 826,
+    "timeMonth": 844,
     "timeYear": 787,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-20": 1
+    }
   },
   {
     "name": "Parga Asociados",
     "url": "https://pargaasociados.es",
     "icon": "https://icons.duckduckgo.com/ip3/pargaasociados.es.ico",
     "slug": "parga-asociados",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 838,
     "timeDay": 750,
     "timeWeek": 804,
-    "timeMonth": 924,
+    "timeMonth": 950,
     "timeYear": 838,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-20": 0
+    }
   },
   {
     "name": "Site CR OP",
@@ -143,7 +147,7 @@
     "time": 237,
     "timeDay": 276,
     "timeWeek": 250,
-    "timeMonth": 237,
+    "timeMonth": 234,
     "timeYear": 237,
     "dailyMinutesDown": {}
   }
