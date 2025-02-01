@@ -98,11 +98,11 @@
     "url": "https://atletismomaster.es",
     "icon": "https://icons.duckduckgo.com/ip3/atletismomaster.es.ico",
     "slug": "atletismo-master",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.84%",
     "time": 801,
     "timeDay": 815,
@@ -110,6 +110,7 @@
     "timeMonth": 863,
     "timeYear": 801,
     "dailyMinutesDown": {
+      "2025-02-01": 1,
       "2025-01-31": 60,
       "2025-01-20": 56
     }
@@ -119,7 +120,7 @@
     "url": "https://pargaasociados.es",
     "icon": "https://icons.duckduckgo.com/ip3/pargaasociados.es.ico",
     "slug": "parga-asociados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "95.89%",
     "uptimeWeek": "99.41%",
@@ -131,6 +132,7 @@
     "timeMonth": 842,
     "timeYear": 834,
     "dailyMinutesDown": {
+      "2025-02-01": 0,
       "2025-01-31": 59,
       "2025-01-20": 55
     }
