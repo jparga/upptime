@@ -31,7 +31,7 @@ sites:
   - name: Site CR OP
     url: $SITE_CR
   - name: Site DIBA CL
-  - url: $SITE_DIBA_CL
+    url: $SITE_DIBA_CL
   #- name: Test Broken Site
   #  url: https://thissitedoesnotexist.koj.co
   #- name: IPv6 test
