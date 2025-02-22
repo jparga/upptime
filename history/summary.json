@@ -162,19 +162,19 @@
     "url": "$SITE_DIBA_CL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-diba-cl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 522,
-    "timeWeek": 605,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "91.78%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 795,
+    "timeDay": 2037,
+    "timeWeek": 973,
+    "timeMonth": 795,
+    "timeYear": 795,
     "dailyMinutesDown": {
-      "2025-02-22": 0
+      "2025-02-22": 118
     }
   }
 ]
