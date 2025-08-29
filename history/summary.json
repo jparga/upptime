@@ -80,10 +80,10 @@
     "url": "https://marcafranca.com",
     "icon": "https://icons.duckduckgo.com/ip3/marcafranca.com.ico",
     "slug": "marca-franca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 607,
@@ -92,6 +92,7 @@
     "timeMonth": 624,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2025-08-29": 1,
       "2025-05-05": 64,
       "2025-04-16": 58
     }
@@ -101,9 +102,9 @@
     "url": "https://canalresponsable.com",
     "icon": "https://icons.duckduckgo.com/ip3/canalresponsable.com.ico",
     "slug": "canal-responsable-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -113,6 +114,7 @@
     "timeMonth": 577,
     "timeYear": 583,
     "dailyMinutesDown": {
+      "2025-08-29": 0,
       "2025-04-16": 57
     }
   },
