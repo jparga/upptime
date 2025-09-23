@@ -1,7 +1,7 @@
 url: $SITE_DIBA_CL
-status: down
-code: 404
-responseTime: 1402
-lastUpdated: 2025-09-23T05:05:13.279Z
+status: up
+code: 200
+responseTime: 916
+lastUpdated: 2025-09-23T07:05:37.903Z
 startTime: 2025-02-08T12:32:14.401Z
 generator: Upptime <https://github.com/upptime/upptime>
