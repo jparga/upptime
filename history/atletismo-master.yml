@@ -1,7 +1,7 @@
 url: https://atletismomaster.es
-status: up
-code: 200
-responseTime: 621
-lastUpdated: 2026-02-03T23:05:52.253Z
+status: down
+code: 502
+responseTime: 609
+lastUpdated: 2026-02-04T05:26:11.639Z
 startTime: 2024-12-11T12:21:34.812Z
 generator: Upptime <https://github.com/upptime/upptime>
