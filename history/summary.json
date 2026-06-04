@@ -133,17 +133,17 @@
     "url": "https://atletismomaster.es",
     "icon": "https://icons.duckduckgo.com/ip3/atletismomaster.es.ico",
     "slug": "atletismo-master",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.52%",
     "uptimeYear": "98.58%",
-    "time": 1014,
-    "timeDay": 524,
-    "timeWeek": 708,
-    "timeMonth": 2174,
-    "timeYear": 915,
+    "time": 1013,
+    "timeDay": 483,
+    "timeWeek": 675,
+    "timeMonth": 2123,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2025-06-12": 27,
       "2025-06-26": 46,
@@ -168,7 +168,8 @@
       "2026-04-28": 298,
       "2026-05-01": 166,
       "2026-05-05": 846,
-      "2026-05-06": 1115
+      "2026-05-06": 1115,
+      "2026-06-04": 0
     }
   },
   {
