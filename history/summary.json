@@ -22,17 +22,17 @@
     "url": "https://mereba.com.es",
     "icon": "https://icons.duckduckgo.com/ip3/mereba.com.es.ico",
     "slug": "test-mereba",
-    "status": "down",
-    "uptime": "92.46%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "95.66%",
+    "status": "up",
+    "uptime": "92.45%",
+    "uptimeDay": "94.88%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "95.65%",
     "time": 980,
-    "timeDay": 13065,
-    "timeWeek": 13065,
-    "timeMonth": 3576,
-    "timeYear": 1010,
+    "timeDay": 8936,
+    "timeWeek": 8936,
+    "timeMonth": 3286,
+    "timeYear": 1009,
     "dailyMinutesDown": {
       "2025-07-17": 27,
       "2025-07-25": 16,
@@ -60,7 +60,7 @@
       "2026-02-27": 757,
       "2026-04-30": 310,
       "2026-04-29": 372,
-      "2026-07-02": 0
+      "2026-07-02": 74
     }
   },
   {
