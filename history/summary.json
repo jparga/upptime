@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 742,
     "timeDay": 438,
-    "timeWeek": 565,
+    "timeWeek": 585,
     "timeMonth": 1063,
     "timeYear": 661,
     "dailyMinutesDown": {}
@@ -22,16 +22,16 @@
     "url": "https://mereba.com.es",
     "icon": "https://icons.duckduckgo.com/ip3/mereba.com.es.ico",
     "slug": "test-mereba",
-    "status": "down",
+    "status": "up",
     "uptime": "92.61%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "95.65%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "95.64%",
     "time": 978,
-    "timeDay": 0,
-    "timeWeek": 777,
-    "timeMonth": 2418,
+    "timeDay": 1046,
+    "timeWeek": 818,
+    "timeMonth": 2333,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2025-07-17": 27,
@@ -61,7 +61,8 @@
       "2026-04-30": 310,
       "2026-04-29": 372,
       "2026-07-02": 74,
-      "2026-07-14": 0
+      "2026-07-15": 6,
+      "2026-07-14": 13
     }
   },
   {
@@ -77,7 +78,7 @@
     "uptimeYear": "99.90%",
     "time": 734,
     "timeDay": 652,
-    "timeWeek": 584,
+    "timeWeek": 583,
     "timeMonth": 598,
     "timeYear": 784,
     "dailyMinutesDown": {
@@ -102,7 +103,7 @@
     "uptimeYear": "99.93%",
     "time": 656,
     "timeDay": 650,
-    "timeWeek": 601,
+    "timeWeek": 599,
     "timeMonth": 601,
     "timeYear": 676,
     "dailyMinutesDown": {
@@ -125,7 +126,7 @@
     "uptimeYear": "100.00%",
     "time": 218,
     "timeDay": 91,
-    "timeWeek": 212,
+    "timeWeek": 204,
     "timeMonth": 208,
     "timeYear": 189,
     "dailyMinutesDown": {}
@@ -143,7 +144,7 @@
     "uptimeYear": "97.93%",
     "time": 1005,
     "timeDay": 792,
-    "timeWeek": 654,
+    "timeWeek": 662,
     "timeMonth": 691,
     "timeYear": 909,
     "dailyMinutesDown": {
@@ -187,7 +188,7 @@
     "uptimeYear": "99.16%",
     "time": 902,
     "timeDay": 904,
-    "timeWeek": 782,
+    "timeWeek": 796,
     "timeMonth": 792,
     "timeYear": 897,
     "dailyMinutesDown": {
@@ -219,7 +220,7 @@
     "uptimeYear": "100.00%",
     "time": 338,
     "timeDay": 215,
-    "timeWeek": 252,
+    "timeWeek": 246,
     "timeMonth": 270,
     "timeYear": 279,
     "dailyMinutesDown": {}
