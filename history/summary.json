@@ -14,7 +14,7 @@
     "timeDay": 197,
     "timeWeek": 155,
     "timeMonth": 706,
-    "timeYear": 656,
+    "timeYear": 657,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mereba.com.es.ico",
     "slug": "test-mereba",
     "status": "up",
-    "uptime": "92.75%",
+    "uptime": "92.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
@@ -32,7 +32,7 @@
     "timeDay": 911,
     "timeWeek": 858,
     "timeMonth": 1746,
-    "timeYear": 1000,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2025-08-17": 863,
       "2025-08-16": 535,
@@ -126,7 +126,7 @@
     "timeDay": 142,
     "timeWeek": 191,
     "timeMonth": 196,
-    "timeYear": 190,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   },
   {
@@ -134,11 +134,11 @@
     "url": "https://atletismomaster.es",
     "icon": "https://icons.duckduckgo.com/ip3/atletismomaster.es.ico",
     "slug": "atletismo-master",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "97.94%",
     "time": 966,
     "timeDay": 571,
@@ -169,7 +169,8 @@
       "2026-05-06": 1115,
       "2026-06-06": 874,
       "2026-06-05": 1440,
-      "2026-06-04": 1190
+      "2026-06-04": 1190,
+      "2026-07-26": 5
     }
   },
   {
@@ -177,13 +178,13 @@
     "url": "https://pargaasociados.es",
     "icon": "https://icons.duckduckgo.com/ip3/pargaasociados.es.ico",
     "slug": "parga-asociados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
-    "time": 900,
+    "time": 901,
     "timeDay": 864,
     "timeWeek": 743,
     "timeMonth": 782,
@@ -200,7 +201,8 @@
       "2026-04-28": 298,
       "2026-05-01": 165,
       "2026-05-05": 797,
-      "2026-05-06": 990
+      "2026-05-06": 990,
+      "2026-07-26": 0
     }
   },
   {
