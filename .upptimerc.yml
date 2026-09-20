@@ -32,6 +32,10 @@ sites:
     url: $SITE_CR
   - name: Site DIBA CL
     url: $SITE_DIBA_CL
+  - name: Facturación VERI*FACTU (cola)
+    url: https://facturas.mereba.com/api/v1/cola/estado?estricto=1
+    headers:
+      - "X-Api-Token: $FACT_MEREBA_TOKEN"
   #- name: Test Broken Site
   #  url: https://thissitedoesnotexist.koj.co
   #- name: IPv6 test
