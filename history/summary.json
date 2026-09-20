@@ -245,18 +245,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/facturas.mereba.com.ico",
     "slug": "facturacion-veri-factu-cola",
     "status": "down",
-    "uptime": "37.63%",
-    "uptimeDay": "37.63%",
-    "uptimeWeek": "37.63%",
-    "uptimeMonth": "37.63%",
-    "uptimeYear": "37.63%",
+    "uptime": "25.31%",
+    "uptimeDay": "25.31%",
+    "uptimeWeek": "25.31%",
+    "uptimeMonth": "25.31%",
+    "uptimeYear": "25.31%",
     "time": 295,
     "timeDay": 295,
     "timeWeek": 295,
     "timeMonth": 295,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2026-09-20": 0
+      "2026-09-20": 1
     }
   }
 ]
