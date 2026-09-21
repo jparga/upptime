@@ -1,7 +1,7 @@
 url: https://facturas.mereba.com/api/v1/cola/estado?estricto=1
-status: down
-code: 502
-responseTime: 513
-lastUpdated: 2026-09-21T13:08:32.177Z
+status: up
+code: 200
+responseTime: 479
+lastUpdated: 2026-09-21T22:15:14.257Z
 startTime: 2026-09-20T18:51:46.748Z
 generator: Upptime <https://github.com/upptime/upptime>
