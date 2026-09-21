@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mereba.com.es.ico",
     "slug": "test-mereba",
     "status": "up",
-    "uptime": "91.14%",
+    "uptime": "91.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
@@ -244,19 +244,20 @@
     "url": "https://facturas.mereba.com/api/v1/cola/estado?estricto=1",
     "icon": "https://icons.duckduckgo.com/ip3/facturas.mereba.com.ico",
     "slug": "facturacion-veri-factu-cola",
-    "status": "up",
-    "uptime": "96.09%",
-    "uptimeDay": "96.09%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "96.09%",
-    "uptimeYear": "96.09%",
-    "time": 435,
-    "timeDay": 435,
-    "timeWeek": 435,
-    "timeMonth": 435,
-    "timeYear": 435,
+    "status": "down",
+    "uptime": "98.22%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.22%",
+    "time": 454,
+    "timeDay": 454,
+    "timeWeek": 454,
+    "timeMonth": 454,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2026-09-20": 19
+      "2026-09-20": 19,
+      "2026-09-21": 1
     }
   }
 ]
