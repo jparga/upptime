@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mereba.com.es.ico",
     "slug": "test-mereba",
     "status": "up",
-    "uptime": "91.26%",
+    "uptime": "91.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -127,11 +127,11 @@
     "url": "https://atletismomaster.es",
     "icon": "https://icons.duckduckgo.com/ip3/atletismomaster.es.ico",
     "slug": "atletismo-master",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.10%",
     "time": 877,
     "timeDay": 589,
@@ -159,7 +159,8 @@
       "2026-06-06": 874,
       "2026-06-05": 1440,
       "2026-06-04": 1190,
-      "2026-07-26": 46
+      "2026-07-26": 46,
+      "2026-09-30": 3
     }
   },
   {
@@ -167,10 +168,10 @@
     "url": "https://pargaasociados.es",
     "icon": "https://icons.duckduckgo.com/ip3/pargaasociados.es.ico",
     "slug": "parga-asociados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
     "time": 871,
@@ -191,7 +192,8 @@
       "2026-05-01": 165,
       "2026-05-05": 797,
       "2026-05-06": 990,
-      "2026-07-26": 41
+      "2026-07-26": 41,
+      "2026-09-30": 2
     }
   },
   {
@@ -217,9 +219,9 @@
     "url": "$SITE_DIBA_CL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-diba-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
@@ -234,7 +236,8 @@
       "2025-11-20": 119,
       "2025-12-24": 16,
       "2026-02-05": 163,
-      "2026-04-19": 15
+      "2026-04-19": 15,
+      "2026-09-30": 0
     }
   },
   {
@@ -243,11 +246,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/facturas.mereba.com.ico",
     "slug": "facturacion-veri-factu-cola",
     "status": "up",
-    "uptime": "95.81%",
+    "uptime": "96.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.81%",
-    "uptimeYear": "95.81%",
+    "uptimeMonth": "96.09%",
+    "uptimeYear": "96.09%",
     "time": 440,
     "timeDay": 525,
     "timeWeek": 435,
