@@ -12,37 +12,16 @@ workflowSchedule:
   uptime: "*/15 * * * *" # Cada 15 minutos
 
 sites:
-#  - name: DemosMF  
-#    url: https://demos.marcafranca.com/
   - name: MEREBA
     url: https://www.mereba.com
-  - name: Test Mereba
-    url: https://mereba.com.es
   - name: Marca Franca
     url: https://marcafranca.com
   - name: Canal Responsable Web
     url: https://canalresponsable.com
-  - name: MFREG
-    url: https://mfreg.marcafranca.com/robots.txt
   - name: Atletismo máster
     url: https://atletismomaster.es
   - name: Parga Asociados
     url: https://pargaasociados.es
-  - name: Site CR OP
-    url: $SITE_CR
-  - name: Site DIBA CL
-    url: $SITE_DIBA_CL
-  - name: Facturación VERI*FACTU (cola)
-    url: https://facturas.mereba.com/api/v1/cola/estado?estricto=1
-    headers:
-      - "X-Api-Token: $FACT_MEREBA_TOKEN"
-  #- name: Test Broken Site
-  #  url: https://thissitedoesnotexist.koj.co
-  #- name: IPv6 test
-  #  url: forwardemail.net
-  #  port: 80
-  #  check: "tcp-ping"
-  #  ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
